@@ -1,0 +1,55 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(light-minimalistic-soft-shading-gradient-background-2880x1800-wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto; 
+    position: absolute;
+}
+
+#holder{
+  height:95%;
+  width: 95%;
+ background-color: aqua;
+margin: auto;
+margin-top: 16px;
+box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+#lefthand{
+  width: 20%;
+  height:100%;
+  float: left;
+  background-color: dimgray;
+ 
+}
+#right{
+   width:79%;
+   float:right;
+   background-color: white;
+    height: 98%;
+    padding: 6px;
+    
+}
+.topper{
+  width: 99%;
+  background-color: whitesmoke;
+   height:100px;
+    float:left;
+    position: static;margin-left: 4px;
+    
+}
+.photo{
+  height:25.5%;
+  width:18.8%;
+ background-color: beige;
+ float: left;
+ margin: 5px;
+ background-image: url(http://getuikit.com/docs/images/placeholder_600x400.svg);
+background-size: contain;
+
+}
+.photo:hover{
+    opacity:0.7;    
+}
