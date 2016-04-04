@@ -4,7 +4,7 @@
 	<title>Dropbox</title>
     </head>
      <link rel="stylesheet" href="dropbox.css">
-     <link rel="stylesheet" href="reset.css">
+     <link rel="stylesheet" href="Resetandbackbone/reset.css">
     <body>
      <div id="holder">
          <div id="lefthand">
